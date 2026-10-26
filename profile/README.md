@@ -7,6 +7,20 @@
 Создаём программные продукты, автоматизируем процессы и собираем AI-инструменты.
 Проходим весь путь вместе с проектом: от первой идеи и дизайна до релиза, поддержки и следующих улучшений.
 
+### Наш open source 💌
+
+<a href="https://github.com/NEO-MEI/LoveCloud">
+  <img src="https://raw.githubusercontent.com/NEO-MEI/LoveCloud/master/docs/assets/banner.svg" alt="LoveCloud — своё облако для двоих, open source проект NEO MEI" width="100%">
+</a>
+
+**[LoveCloud](https://github.com/NEO-MEI/LoveCloud)** — своё облако для двоих: файлы и воспоминания, послания, общие планы и вишлисты. Размещается на вашем сервере; интерфейс на русском и английском.
+
+<sub>Apache-2.0 · Self-hosted · Docker · Next.js + ASP.NET Core + PostgreSQL</sub>
+
+[Код и документация](https://github.com/NEO-MEI/LoveCloud) · [Попробовать демо](https://neo-mei.github.io/LoveCloud/) · [Установить](https://github.com/NEO-MEI/LoveCloud/releases/latest) · [Поучаствовать](https://github.com/NEO-MEI/LoveCloud/blob/master/CONTRIBUTING.md)
+
+<sub>v0.1.0 — ранний выпуск. Демо использует вымышленные данные; ограничения и модель доступа описаны в README проекта.</sub>
+
 ### От идеи до работающего продукта
 
 <p>
