@@ -1,10 +1,9 @@
-# NEO MEI · Identity
+# NEO MEI · Визуальный стиль
 
-Visual identity and public GitHub organization profile.
+Оформление публичного профиля GitHub: цветные карандаши, тёплая бумага и персонажи с аватарки команды.
 
-- Organization profile: [`profile/README.md`](profile/README.md)
-- Cover: [`profile/assets/cover.svg`](profile/assets/cover.svg)
-- Monogram: [`profile/assets/avatar.svg`](profile/assets/avatar.svg)
+- Профиль организации: [`profile/README.md`](profile/README.md)
+- Обложка: [`profile/assets/cover-handdrawn.png`](profile/assets/cover-handdrawn.png)
+- Цикл разработки: [`profile/assets/workflow-handdrawn.png`](profile/assets/workflow-handdrawn.png)
 
-Palette: graphite `#101211`, lime `#D5FF70`, off-white `#F4F5EE`.
-Artwork is self-contained SVG with no external resources or scripts.
+Иллюстрации созданы по аватарке NEO MEI и референсу команды. Исходные изображения сохранены в PNG.

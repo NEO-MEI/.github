@@ -1,16 +1,18 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NEO-MEI/.github/main/profile/assets/cover.png" alt="NEO MEI — Ideas into systems. AI systems, automation, software." width="100%">
+  <img src="https://raw.githubusercontent.com/NEO-MEI/.github/main/profile/assets/cover-handdrawn.png" alt="NEO MEI — команда разработки полного цикла. Два основателя, сервер и осьминожка, нарисованные цветными карандашами." width="100%">
 </p>
 
-### Идеи становятся системами.
+### Привет, мы NEO MEI 👋
 
-**NEO MEI** — команда разработки на стыке AI, автоматизации и программных продуктов.
-Превращаем сложные задачи в понятные инструменты — от первого прототипа до работающей системы.
+Создаём программные продукты, автоматизируем процессы и собираем AI-инструменты.
+Проходим весь путь вместе с проектом: от первой идеи и дизайна до релиза, поддержки и следующих улучшений.
+
+### От идеи до работающего продукта
 
 <p>
-  <img src="https://raw.githubusercontent.com/NEO-MEI/.github/main/profile/assets/disciplines.png" alt="Intelligence — AI и агенты. Automation — процессы и инструменты. Engineering — продукты и системы." width="100%">
+  <img src="https://raw.githubusercontent.com/NEO-MEI/.github/main/profile/assets/workflow-handdrawn.png" alt="Наш цикл работы: 1. Идея → 2. План → 3. Дизайн → 4. Код → 5. Тест → 6. Релиз → 7. Поддержка → 8. Улучшения." width="100%">
 </p>
 
 ---
 
-<sub><b>NEO / MEI</b> &nbsp; · &nbsp; Built with intent.</sub>
+<p align="center"><sub>🌱 <b>NEO MEI</b> · Команда разработки полного цикла</sub></p>
